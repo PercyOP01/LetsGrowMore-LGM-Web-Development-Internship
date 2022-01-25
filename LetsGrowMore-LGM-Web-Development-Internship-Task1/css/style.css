@@ -12,7 +12,7 @@
     width: 70%;
     height: 4rem;
     margin: auto;
-    color: white;
+    color: grey;
     justify-content: space-around;
     z-index: 1;
     position: relative;
@@ -70,7 +70,7 @@ height: 100vh;
 
 .carousel-caption .learn_more_btn1{
  padding: 0.3rem;
- background-color: yellow;
+ background-color: red;
  outline: none;
  border: none;
 }
@@ -81,7 +81,7 @@ height: 100vh;
 
 .carousel-caption .learn_more_btn2{
  padding: 0.3rem;
- background-color: #bf19bf;
+ background-color: blue;
  outline: none;
  border: none;
 }
@@ -150,7 +150,7 @@ height: 100vh;
 }
 
 .welcome_page .down_div .card .card-body a{
-    background-color: yellow;
+    background-color: rgb(255, 174, 0);
     color: black;
     font-weight: 500;
 }
@@ -248,7 +248,7 @@ height: 100vh;
 }
 
 .pricing_cards .card-body a{
-    background-color: yellow;
+    background-color: rgb(255, 174, 0);
     color: black;
     font-weight: 600;
     border: none;
@@ -447,7 +447,7 @@ margin: 0.5rem 0;
 }
 
 .blog_section .blog_cards .card .card-body a:hover{
-    background-color: yellow;
+    background-color: rgb(255, 174, 0);
 }
 
 .map_section{
@@ -464,7 +464,7 @@ margin: 0.5rem 0;
 
 .contact{
     width: 50%;
-    background-color: yellow;
+    background-color: rgb(255, 174, 0);
 }
 
 .contact_heading{
