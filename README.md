@@ -1,1 +1,1 @@
-# LetsGrowMore-LGM-Web-Development-Internship1
+# LetsGrowMore-LGM-Web-Development-Internship
